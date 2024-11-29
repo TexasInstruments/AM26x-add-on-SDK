@@ -4,7 +4,7 @@ This repository is a collection of software applications created as a part of AM
 
 ---
 
-If you want to provide Feedback or request for a new lab, please create a new E2E thread here: https://e2e.ti.com/p/addpost and connect with our experts.
+If you want to provide Feedback or request for a new application in the AM26x-add-on-SDK, please create a new E2E thread here: https://e2e.ti.com/p/addpost and connect with our experts.
 
 ## Directory structure
 
@@ -18,7 +18,7 @@ If you want to provide Feedback or request for a new lab, please create a new E2
 
 ***Note***
 
-1. The applications of the AM26x-add-on-SDK are meant to serve as a reference code and are not thoroughly tested, optimized to provide the best performance, unless specified in the Readme.md of the applications.
+1. The applications of the AM26x-add-on-SDK serve as a reference code and are not thoroughly tested, optimized to provide the best performance, unless specified in the Readme.md of the applications.
 
 2. Makefile build is not supported for the applications inside the AM26x-add-on-SDK.
 
