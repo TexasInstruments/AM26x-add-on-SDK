@@ -1,0 +1,35 @@
+[C:/Users/A0503581/workspace_v12/icss_emac_layer2_am263x-cc_r5fss0-0_freertos_ti-arm-clang/Release/icss_emac_layer2_am263x-cc_r5fss0-0_freertos_ti-arm-clang.rprc_tmp] Parsing file ...
+Found section 0 with adddress 0x00000000, size 0x00000040 bytes
+Found section 1 with adddress 0x7006e600, size 0x0000fb50 bytes
+Found section 2 with adddress 0x7007e150, size 0x00005120 bytes
+Found section 3 with adddress 0x70083270, size 0x00000788 bytes
+Found section 4 with adddress 0x700839f8, size 0x00000430 bytes
+Found section 5 with adddress 0x70083e28, size 0x00000208 bytes
+Found section 6 with adddress 0x70084030, size 0x00000128 bytes
+Found section 7 with adddress 0x70084158, size 0x00000008 bytes
+Found section 8 with adddress 0x70084160, size 0x000007f0 bytes
+[C:/Users/A0503581/workspace_v12/icss_emac_layer2_am263x-cc_r5fss0-0_freertos_ti-arm-clang/Release/icss_emac_layer2_am263x-cc_r5fss0-0_freertos_ti-arm-clang.rprc_tmp] Found 9 sections. 9 are non-XIP sections, 0 are XIP sections, NON-XIP entryPoint = 0x00000000
+Merging section @ 0x7007e150 of size 0x00005120, with section @ 0x7006e600 of size 0x0000fb50
+Merging section @ 0x70083270 of size 0x00000788, with section @ 0x7006e600 of size 0x00014c70
+Merging section @ 0x700839f8 of size 0x00000430, with section @ 0x7006e600 of size 0x000153f8
+Merging section @ 0x70083e28 of size 0x00000208, with section @ 0x7006e600 of size 0x00015828
+Merging section @ 0x70084030 of size 0x00000128, with section @ 0x7006e600 of size 0x00015a30
+Merging section @ 0x70084158 of size 0x00000008, with section @ 0x7006e600 of size 0x00015b58
+Merging section @ 0x70084160 of size 0x000007f0, with section @ 0x7006e600 of size 0x00015b60
+Writing section header  #0, adddress 0x00000000, size 0x00000040 bytes to file [C:/Users/A0503581/workspace_v12/icss_emac_layer2_am263x-cc_r5fss0-0_freertos_ti-arm-clang/Release/icss_emac_layer2_am263x-cc_r5fss0-0_freertos_ti-arm-clang.rprc]
+Writing section data with adddress 0x00000000, size 0x00000040 bytes to file [C:/Users/A0503581/workspace_v12/icss_emac_layer2_am263x-cc_r5fss0-0_freertos_ti-arm-clang/Release/icss_emac_layer2_am263x-cc_r5fss0-0_freertos_ti-arm-clang.rprc]
+Writing section header  #1, adddress 0x7006e600, size 0x00016350 bytes to file [C:/Users/A0503581/workspace_v12/icss_emac_layer2_am263x-cc_r5fss0-0_freertos_ti-arm-clang/Release/icss_emac_layer2_am263x-cc_r5fss0-0_freertos_ti-arm-clang.rprc]
+Writing section data with adddress 0x7006e600, size 0x0000fb50 bytes to file [C:/Users/A0503581/workspace_v12/icss_emac_layer2_am263x-cc_r5fss0-0_freertos_ti-arm-clang/Release/icss_emac_layer2_am263x-cc_r5fss0-0_freertos_ti-arm-clang.rprc]
+Writing section data with adddress 0x7007e150, size 0x00005120 bytes to file [C:/Users/A0503581/workspace_v12/icss_emac_layer2_am263x-cc_r5fss0-0_freertos_ti-arm-clang/Release/icss_emac_layer2_am263x-cc_r5fss0-0_freertos_ti-arm-clang.rprc]
+Writing section data with adddress 0x70083270, size 0x00000788 bytes to file [C:/Users/A0503581/workspace_v12/icss_emac_layer2_am263x-cc_r5fss0-0_freertos_ti-arm-clang/Release/icss_emac_layer2_am263x-cc_r5fss0-0_freertos_ti-arm-clang.rprc]
+Writing section data with adddress 0x700839f8, size 0x00000430 bytes to file [C:/Users/A0503581/workspace_v12/icss_emac_layer2_am263x-cc_r5fss0-0_freertos_ti-arm-clang/Release/icss_emac_layer2_am263x-cc_r5fss0-0_freertos_ti-arm-clang.rprc]
+Writing section data with adddress 0x70083e28, size 0x00000208 bytes to file [C:/Users/A0503581/workspace_v12/icss_emac_layer2_am263x-cc_r5fss0-0_freertos_ti-arm-clang/Release/icss_emac_layer2_am263x-cc_r5fss0-0_freertos_ti-arm-clang.rprc]
+Writing section data with adddress 0x70084030, size 0x00000128 bytes to file [C:/Users/A0503581/workspace_v12/icss_emac_layer2_am263x-cc_r5fss0-0_freertos_ti-arm-clang/Release/icss_emac_layer2_am263x-cc_r5fss0-0_freertos_ti-arm-clang.rprc]
+Writing section data with adddress 0x70084158, size 0x00000008 bytes to file [C:/Users/A0503581/workspace_v12/icss_emac_layer2_am263x-cc_r5fss0-0_freertos_ti-arm-clang/Release/icss_emac_layer2_am263x-cc_r5fss0-0_freertos_ti-arm-clang.rprc]
+Writing section data with adddress 0x70084160, size 0x000007f0 bytes to file [C:/Users/A0503581/workspace_v12/icss_emac_layer2_am263x-cc_r5fss0-0_freertos_ti-arm-clang/Release/icss_emac_layer2_am263x-cc_r5fss0-0_freertos_ti-arm-clang.rprc]
+[C:/Users/A0503581/workspace_v12/icss_emac_layer2_am263x-cc_r5fss0-0_freertos_ti-arm-clang/Release/icss_emac_layer2_am263x-cc_r5fss0-0_freertos_ti-arm-clang.rprc] Parsing file ...
+Found section 0 with adddress 0x00000000, size 0x00000040 bytes
+Found section 1 with adddress 0x7006e600, size 0x00016350 bytes
+[C:/Users/A0503581/workspace_v12/icss_emac_layer2_am263x-cc_r5fss0-0_freertos_ti-arm-clang/Release/icss_emac_layer2_am263x-cc_r5fss0-0_freertos_ti-arm-clang.rprc] Found 2 sections. 2 are non-XIP sections, 0 are XIP sections, NON-XIP entryPoint = 0x00000000
+[C:/Users/A0503581/workspace_v12/icss_emac_layer2_am263x-cc_r5fss0-0_freertos_ti-arm-clang/Release/icss_emac_layer2_am263x-cc_r5fss0-0_freertos_ti-arm-clang.rprc_xip] Parsing file ...
+[C:/Users/A0503581/workspace_v12/icss_emac_layer2_am263x-cc_r5fss0-0_freertos_ti-arm-clang/Release/icss_emac_layer2_am263x-cc_r5fss0-0_freertos_ti-arm-clang.rprc_xip] Found 0 sections. 0 are non-XIP sections, 0 are XIP sections, NON-XIP entryPoint = 0x00000000

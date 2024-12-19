@@ -1,6 +1,5 @@
 # MCU_PLU_SDK based applications
 
----
 
 This folder contains the AM26x-add-on-SDK applications that are based on the MCU_PLUS_SDK.
 
@@ -22,14 +21,12 @@ For detailed steps, please follow: [Download and setup MCU_PLUS_SDK and Tools](h
 
 Once you have the above set up, 
 1. Navigate to the application 
-2. Read the collateral associated with the application
-3. Download and run the application. Steps to run: 
-
----
+2. Read the collateral associated with the application.
+3. Download and run the application. 
 
 ## Steps to use the AM26x-add-on-SDK
 
- The application naming convention followed is "{lab_module}\_{device_name}\_{core}\_{OS}\-{tool_chain}" for example, "edma_dma_sw_lab_am263px-cc_r5fss0-0_nortos_ti-arm-clang"
+ The application naming convention followed is "{module}\_{device_name}\_{core}\_{OS}\-{tool_chain}" for example, "edma_dma_sw_lab_am263px-cc_r5fss0-0_nortos_ti-arm-clang"
  
 The applications inside the AM26x-add-on-SDK are CCS projects that can be directly imported inside your CCS workspace. Before doing that, make sure you:  
 
@@ -37,7 +34,7 @@ The applications inside the AM26x-add-on-SDK are CCS projects that can be direct
 
 2. Download and unzip/Clone the AM26x-add-on-SDK inside the *<mcu_plus_sdk_install_path>/examples* folder.
 
-3. Refer the Readme.md of the application you are interested in to know the steps to import and run the application.
+3. Refer the Readme file of the application you are interested in to know the steps to import and run the application.
 
 ---
 

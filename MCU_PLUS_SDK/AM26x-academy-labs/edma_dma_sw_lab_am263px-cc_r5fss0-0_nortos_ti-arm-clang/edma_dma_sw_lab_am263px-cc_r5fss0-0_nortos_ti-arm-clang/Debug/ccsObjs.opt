@@ -1,0 +1,7 @@
+"./am263px_dma_lab_main.o"
+"./main.o"
+-lnortos.am263px.r5f.ti-arm-clang.debug.lib
+-ldrivers.am263px.r5f.ti-arm-clang.debug.lib
+-lboard.am263px.r5f.ti-arm-clang.debug.lib
+-llibc.a
+-llibsysbm.a
