@@ -1,0 +1,35 @@
+[C:/Users/A0503581/workspace_v12/adc_lab_am263px-cc_r5fss0-0_nortos-ti-arm-clang/Release/adc_lab_am263px-cc_r5fss0-0_nortos-ti-arm-clang.rprc_tmp] Parsing file ...
+Found section 0 with adddress 0x00000000, size 0x00000040 bytes
+Found section 1 with adddress 0x7004edc0, size 0x00008ca0 bytes
+Found section 2 with adddress 0x70057a60, size 0x000013e8 bytes
+Found section 3 with adddress 0x70058e48, size 0x00000978 bytes
+Found section 4 with adddress 0x700597c0, size 0x00000430 bytes
+Found section 5 with adddress 0x70059bf0, size 0x00000218 bytes
+Found section 6 with adddress 0x70059e08, size 0x00000190 bytes
+Found section 7 with adddress 0x70059f98, size 0x00000008 bytes
+Found section 8 with adddress 0x70059fa0, size 0x00000388 bytes
+[C:/Users/A0503581/workspace_v12/adc_lab_am263px-cc_r5fss0-0_nortos-ti-arm-clang/Release/adc_lab_am263px-cc_r5fss0-0_nortos-ti-arm-clang.rprc_tmp] Found 9 sections. 9 are non-XIP sections, 0 are XIP sections, NON-XIP entryPoint = 0x00000000
+Merging section @ 0x70057a60 of size 0x000013e8, with section @ 0x7004edc0 of size 0x00008ca0
+Merging section @ 0x70058e48 of size 0x00000978, with section @ 0x7004edc0 of size 0x0000a088
+Merging section @ 0x700597c0 of size 0x00000430, with section @ 0x7004edc0 of size 0x0000aa00
+Merging section @ 0x70059bf0 of size 0x00000218, with section @ 0x7004edc0 of size 0x0000ae30
+Merging section @ 0x70059e08 of size 0x00000190, with section @ 0x7004edc0 of size 0x0000b048
+Merging section @ 0x70059f98 of size 0x00000008, with section @ 0x7004edc0 of size 0x0000b1d8
+Merging section @ 0x70059fa0 of size 0x00000388, with section @ 0x7004edc0 of size 0x0000b1e0
+Writing section header  #0, adddress 0x00000000, size 0x00000040 bytes to file [C:/Users/A0503581/workspace_v12/adc_lab_am263px-cc_r5fss0-0_nortos-ti-arm-clang/Release/adc_lab_am263px-cc_r5fss0-0_nortos-ti-arm-clang.rprc]
+Writing section data with adddress 0x00000000, size 0x00000040 bytes to file [C:/Users/A0503581/workspace_v12/adc_lab_am263px-cc_r5fss0-0_nortos-ti-arm-clang/Release/adc_lab_am263px-cc_r5fss0-0_nortos-ti-arm-clang.rprc]
+Writing section header  #1, adddress 0x7004edc0, size 0x0000b568 bytes to file [C:/Users/A0503581/workspace_v12/adc_lab_am263px-cc_r5fss0-0_nortos-ti-arm-clang/Release/adc_lab_am263px-cc_r5fss0-0_nortos-ti-arm-clang.rprc]
+Writing section data with adddress 0x7004edc0, size 0x00008ca0 bytes to file [C:/Users/A0503581/workspace_v12/adc_lab_am263px-cc_r5fss0-0_nortos-ti-arm-clang/Release/adc_lab_am263px-cc_r5fss0-0_nortos-ti-arm-clang.rprc]
+Writing section data with adddress 0x70057a60, size 0x000013e8 bytes to file [C:/Users/A0503581/workspace_v12/adc_lab_am263px-cc_r5fss0-0_nortos-ti-arm-clang/Release/adc_lab_am263px-cc_r5fss0-0_nortos-ti-arm-clang.rprc]
+Writing section data with adddress 0x70058e48, size 0x00000978 bytes to file [C:/Users/A0503581/workspace_v12/adc_lab_am263px-cc_r5fss0-0_nortos-ti-arm-clang/Release/adc_lab_am263px-cc_r5fss0-0_nortos-ti-arm-clang.rprc]
+Writing section data with adddress 0x700597c0, size 0x00000430 bytes to file [C:/Users/A0503581/workspace_v12/adc_lab_am263px-cc_r5fss0-0_nortos-ti-arm-clang/Release/adc_lab_am263px-cc_r5fss0-0_nortos-ti-arm-clang.rprc]
+Writing section data with adddress 0x70059bf0, size 0x00000218 bytes to file [C:/Users/A0503581/workspace_v12/adc_lab_am263px-cc_r5fss0-0_nortos-ti-arm-clang/Release/adc_lab_am263px-cc_r5fss0-0_nortos-ti-arm-clang.rprc]
+Writing section data with adddress 0x70059e08, size 0x00000190 bytes to file [C:/Users/A0503581/workspace_v12/adc_lab_am263px-cc_r5fss0-0_nortos-ti-arm-clang/Release/adc_lab_am263px-cc_r5fss0-0_nortos-ti-arm-clang.rprc]
+Writing section data with adddress 0x70059f98, size 0x00000008 bytes to file [C:/Users/A0503581/workspace_v12/adc_lab_am263px-cc_r5fss0-0_nortos-ti-arm-clang/Release/adc_lab_am263px-cc_r5fss0-0_nortos-ti-arm-clang.rprc]
+Writing section data with adddress 0x70059fa0, size 0x00000388 bytes to file [C:/Users/A0503581/workspace_v12/adc_lab_am263px-cc_r5fss0-0_nortos-ti-arm-clang/Release/adc_lab_am263px-cc_r5fss0-0_nortos-ti-arm-clang.rprc]
+[C:/Users/A0503581/workspace_v12/adc_lab_am263px-cc_r5fss0-0_nortos-ti-arm-clang/Release/adc_lab_am263px-cc_r5fss0-0_nortos-ti-arm-clang.rprc] Parsing file ...
+Found section 0 with adddress 0x00000000, size 0x00000040 bytes
+Found section 1 with adddress 0x7004edc0, size 0x0000b568 bytes
+[C:/Users/A0503581/workspace_v12/adc_lab_am263px-cc_r5fss0-0_nortos-ti-arm-clang/Release/adc_lab_am263px-cc_r5fss0-0_nortos-ti-arm-clang.rprc] Found 2 sections. 2 are non-XIP sections, 0 are XIP sections, NON-XIP entryPoint = 0x00000000
+[C:/Users/A0503581/workspace_v12/adc_lab_am263px-cc_r5fss0-0_nortos-ti-arm-clang/Release/adc_lab_am263px-cc_r5fss0-0_nortos-ti-arm-clang.rprc_xip] Parsing file ...
+[C:/Users/A0503581/workspace_v12/adc_lab_am263px-cc_r5fss0-0_nortos-ti-arm-clang/Release/adc_lab_am263px-cc_r5fss0-0_nortos-ti-arm-clang.rprc_xip] Found 0 sections. 0 are non-XIP sections, 0 are XIP sections, NON-XIP entryPoint = 0x00000000

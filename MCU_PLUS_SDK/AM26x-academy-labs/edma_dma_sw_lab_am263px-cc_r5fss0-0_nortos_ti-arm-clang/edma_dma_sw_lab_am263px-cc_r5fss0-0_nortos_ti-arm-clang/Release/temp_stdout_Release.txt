@@ -1,0 +1,36 @@
+[C:/Users/A0503581/workspace_v12/edma_dma_sw_lab_am263px-cc_r5fss0-0_nortos_ti-arm-clang/Release/edma_dma_sw_lab_am263px-cc_r5fss0-0_nortos_ti-arm-clang.rprc_tmp] Parsing file ...
+Found section 0 with adddress 0x00000000, size 0x00000040 bytes
+Found section 1 with adddress 0x70040000, size 0x000081e0 bytes
+Found section 2 with adddress 0x700481e0, size 0x000012c0 bytes
+Found section 3 with adddress 0x7004e9a8, size 0x00000760 bytes
+Found section 4 with adddress 0x7004f108, size 0x00000430 bytes
+Found section 5 with adddress 0x7004f538, size 0x00000218 bytes
+Found section 6 with adddress 0x7004f750, size 0x00000128 bytes
+Found section 7 with adddress 0x7004f878, size 0x00000008 bytes
+Found section 8 with adddress 0x7004f880, size 0x00000260 bytes
+[C:/Users/A0503581/workspace_v12/edma_dma_sw_lab_am263px-cc_r5fss0-0_nortos_ti-arm-clang/Release/edma_dma_sw_lab_am263px-cc_r5fss0-0_nortos_ti-arm-clang.rprc_tmp] Found 9 sections. 9 are non-XIP sections, 0 are XIP sections, NON-XIP entryPoint = 0x00000000
+Merging section @ 0x700481e0 of size 0x000012c0, with section @ 0x70040000 of size 0x000081e0
+Merging section @ 0x7004f108 of size 0x00000430, with section @ 0x7004e9a8 of size 0x00000760
+Merging section @ 0x7004f538 of size 0x00000218, with section @ 0x7004e9a8 of size 0x00000b90
+Merging section @ 0x7004f750 of size 0x00000128, with section @ 0x7004e9a8 of size 0x00000da8
+Merging section @ 0x7004f878 of size 0x00000008, with section @ 0x7004e9a8 of size 0x00000ed0
+Merging section @ 0x7004f880 of size 0x00000260, with section @ 0x7004e9a8 of size 0x00000ed8
+Writing section header  #0, adddress 0x00000000, size 0x00000040 bytes to file [C:/Users/A0503581/workspace_v12/edma_dma_sw_lab_am263px-cc_r5fss0-0_nortos_ti-arm-clang/Release/edma_dma_sw_lab_am263px-cc_r5fss0-0_nortos_ti-arm-clang.rprc]
+Writing section data with adddress 0x00000000, size 0x00000040 bytes to file [C:/Users/A0503581/workspace_v12/edma_dma_sw_lab_am263px-cc_r5fss0-0_nortos_ti-arm-clang/Release/edma_dma_sw_lab_am263px-cc_r5fss0-0_nortos_ti-arm-clang.rprc]
+Writing section header  #1, adddress 0x70040000, size 0x000094a0 bytes to file [C:/Users/A0503581/workspace_v12/edma_dma_sw_lab_am263px-cc_r5fss0-0_nortos_ti-arm-clang/Release/edma_dma_sw_lab_am263px-cc_r5fss0-0_nortos_ti-arm-clang.rprc]
+Writing section data with adddress 0x70040000, size 0x000081e0 bytes to file [C:/Users/A0503581/workspace_v12/edma_dma_sw_lab_am263px-cc_r5fss0-0_nortos_ti-arm-clang/Release/edma_dma_sw_lab_am263px-cc_r5fss0-0_nortos_ti-arm-clang.rprc]
+Writing section data with adddress 0x700481e0, size 0x000012c0 bytes to file [C:/Users/A0503581/workspace_v12/edma_dma_sw_lab_am263px-cc_r5fss0-0_nortos_ti-arm-clang/Release/edma_dma_sw_lab_am263px-cc_r5fss0-0_nortos_ti-arm-clang.rprc]
+Writing section header  #2, adddress 0x7004e9a8, size 0x00001138 bytes to file [C:/Users/A0503581/workspace_v12/edma_dma_sw_lab_am263px-cc_r5fss0-0_nortos_ti-arm-clang/Release/edma_dma_sw_lab_am263px-cc_r5fss0-0_nortos_ti-arm-clang.rprc]
+Writing section data with adddress 0x7004e9a8, size 0x00000760 bytes to file [C:/Users/A0503581/workspace_v12/edma_dma_sw_lab_am263px-cc_r5fss0-0_nortos_ti-arm-clang/Release/edma_dma_sw_lab_am263px-cc_r5fss0-0_nortos_ti-arm-clang.rprc]
+Writing section data with adddress 0x7004f108, size 0x00000430 bytes to file [C:/Users/A0503581/workspace_v12/edma_dma_sw_lab_am263px-cc_r5fss0-0_nortos_ti-arm-clang/Release/edma_dma_sw_lab_am263px-cc_r5fss0-0_nortos_ti-arm-clang.rprc]
+Writing section data with adddress 0x7004f538, size 0x00000218 bytes to file [C:/Users/A0503581/workspace_v12/edma_dma_sw_lab_am263px-cc_r5fss0-0_nortos_ti-arm-clang/Release/edma_dma_sw_lab_am263px-cc_r5fss0-0_nortos_ti-arm-clang.rprc]
+Writing section data with adddress 0x7004f750, size 0x00000128 bytes to file [C:/Users/A0503581/workspace_v12/edma_dma_sw_lab_am263px-cc_r5fss0-0_nortos_ti-arm-clang/Release/edma_dma_sw_lab_am263px-cc_r5fss0-0_nortos_ti-arm-clang.rprc]
+Writing section data with adddress 0x7004f878, size 0x00000008 bytes to file [C:/Users/A0503581/workspace_v12/edma_dma_sw_lab_am263px-cc_r5fss0-0_nortos_ti-arm-clang/Release/edma_dma_sw_lab_am263px-cc_r5fss0-0_nortos_ti-arm-clang.rprc]
+Writing section data with adddress 0x7004f880, size 0x00000260 bytes to file [C:/Users/A0503581/workspace_v12/edma_dma_sw_lab_am263px-cc_r5fss0-0_nortos_ti-arm-clang/Release/edma_dma_sw_lab_am263px-cc_r5fss0-0_nortos_ti-arm-clang.rprc]
+[C:/Users/A0503581/workspace_v12/edma_dma_sw_lab_am263px-cc_r5fss0-0_nortos_ti-arm-clang/Release/edma_dma_sw_lab_am263px-cc_r5fss0-0_nortos_ti-arm-clang.rprc] Parsing file ...
+Found section 0 with adddress 0x00000000, size 0x00000040 bytes
+Found section 1 with adddress 0x70040000, size 0x000094a0 bytes
+Found section 2 with adddress 0x7004e9a8, size 0x00001138 bytes
+[C:/Users/A0503581/workspace_v12/edma_dma_sw_lab_am263px-cc_r5fss0-0_nortos_ti-arm-clang/Release/edma_dma_sw_lab_am263px-cc_r5fss0-0_nortos_ti-arm-clang.rprc] Found 3 sections. 3 are non-XIP sections, 0 are XIP sections, NON-XIP entryPoint = 0x00000000
+[C:/Users/A0503581/workspace_v12/edma_dma_sw_lab_am263px-cc_r5fss0-0_nortos_ti-arm-clang/Release/edma_dma_sw_lab_am263px-cc_r5fss0-0_nortos_ti-arm-clang.rprc_xip] Parsing file ...
+[C:/Users/A0503581/workspace_v12/edma_dma_sw_lab_am263px-cc_r5fss0-0_nortos_ti-arm-clang/Release/edma_dma_sw_lab_am263px-cc_r5fss0-0_nortos_ti-arm-clang.rprc_xip] Found 0 sections. 0 are non-XIP sections, 0 are XIP sections, NON-XIP entryPoint = 0x00000000

@@ -1,0 +1,6 @@
+"./empty.o"
+"./main.o"
+-lnortos.am263px.r5f.ti-arm-clang.debug.lib
+-ldrivers.am263px.r5f.ti-arm-clang.debug.lib
+-llibc.a
+-llibsysbm.a
