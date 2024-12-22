@@ -1,5 +1,5 @@
 # AM26x Academy Lab - ADC Lab
-Link to the Academy lab: Not published yet
+Link to the Academy lab: https://dev.ti.com/tirex/explore/node?node=A__AYDjs9gtHB5f8WjVfgPpKQ__AM26X-ACADEMY__t0CaxbG__LATEST
 
 ### Version details
 

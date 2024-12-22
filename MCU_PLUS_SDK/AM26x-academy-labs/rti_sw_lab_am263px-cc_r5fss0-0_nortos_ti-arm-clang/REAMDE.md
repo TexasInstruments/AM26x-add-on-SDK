@@ -1,5 +1,5 @@
 # AM26x Academy Lab - RTI UART Lab
-Link to the Academy lab: Not published yet
+Link to the Academy lab: https://dev.ti.com/tirex/explore/node?node=A__ASQxRjAnReiEmj6CeeuzaA__AM26X-ACADEMY__t0CaxbG__LATEST
 
 ### Version details
 
